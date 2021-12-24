@@ -1,8 +1,10 @@
 # network simulator 3 with python binding
 ---
 *environment:*
-`os`: `Fedora Workstation 34` 
-`python`: `3.9.9`
+
+*os* : `Fedora Workstation 34` 
+
+*python* : `3.9.9`
 
 ---
 
